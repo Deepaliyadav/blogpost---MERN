@@ -16,5 +16,5 @@ npm start
 # Run the React mern-stack-client only
 npm run client 
 
-# Server runs on http://localhost:4000 and client on http://localhost:3000
+# Server runs on http://localhost:4000/postMessages and client on http://localhost:3000
 ```
